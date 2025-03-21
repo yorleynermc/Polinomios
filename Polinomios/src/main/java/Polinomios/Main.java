@@ -10,7 +10,7 @@ public class Main {
     // Menú principal
     public static void menuppal() {
         int opcion;
-        String menu = "**** MENÚ ****\n" +
+        String menu = "**** MENÚ prueba****\n" +
                 "1 - Polinomios en vector forma 1\n" +
                 "2 - Polinomios en vector forma 2\n" +
                 "0 - Salir\n" +
