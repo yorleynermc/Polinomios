@@ -38,7 +38,7 @@ public class Main {
         float x;
         Polinomio A, B, C;
 
-        String menu = "*** MENÚ ***\n\n" +
+        String menu = "**** MENÚ ****\n\n" +
                 "1 – Mostrar\n" +
                 "2 – Evaluar\n" +
                 "3 – Sumar\n" +
